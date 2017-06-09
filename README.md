@@ -1,2 +1,2 @@
 # hello-world
-a repository
+My name is Jeffry Saputra from IF ITHB 2015
